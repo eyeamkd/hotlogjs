@@ -1,0 +1,16 @@
+{
+  "name": "hotlogjs",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "deploy":"npm version patch && npm publish"
+  },
+  "keywords": [],
+  "author": "Kunal Dubey and Balaji Kummari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
