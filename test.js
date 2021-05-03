@@ -1,4 +1,4 @@
-const {hot} = require('./index');
+const hot = require('./index');
 
 
-hot.log("Hi")
+hot.log("akjsdn");
