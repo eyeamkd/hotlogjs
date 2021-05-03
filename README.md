@@ -20,6 +20,6 @@ options:
     - flag : anyone of INFO | WARNING | ERROR 
 
 examples:
-    
-    `hot.log("log 1",{flag:"INFO"})` 
-    
+
+`hot.log("log 1",{flag:"INFO"})` 
+
