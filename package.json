@@ -1,11 +1,11 @@
 {
   "name": "hotlogjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
-    "deploy":"npm version patch && npm publish"
+    "deploy": "npm version patch && npm publish"
   },
   "keywords": [],
   "author": "Kunal Dubey and Balaji Kummari",
