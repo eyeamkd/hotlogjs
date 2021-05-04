@@ -4,7 +4,9 @@
 
 1. Go to hotlog.in and create your package 
 
-2. Copy the API_KEY into your project's .env file 
+2. Copy the API_KEY into your project's .env file  
+
+3. `import * as hot from 'hotlogjs' or const hot = require('hotlogjs')`
 
 3. `npm i hotlogjs`
 
