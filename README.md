@@ -2,7 +2,7 @@
 
 ### Usage  
 
-1. Go to hotlog.com and create your package 
+1. Go to hotlog.in and create your package 
 
 2. Copy the API_KEY into your project's .env file 
 
@@ -22,4 +22,8 @@ options:
 examples:
 
 `hot.log("log 1",{flag:"INFO"})` 
+
+`hot.log("log with only message")`  
+
+`hot.log("log 1",{data:{prop:"value"}})` 
 
